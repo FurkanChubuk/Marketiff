@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marketiff
 - 👀 I’m interested in learning new coding styes
-- 🌱 I’m currently learning Phyton
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on interesting projecs
 - 📫 How to reach me: hello@marketiff.com
 
