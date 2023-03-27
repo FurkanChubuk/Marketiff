@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marketiff
+- 👋 Hi, I’m Furkan Chubuk
 - 👀 I’m interested in learning new coding styes
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on interesting projecs
